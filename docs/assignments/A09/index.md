@@ -23,7 +23,9 @@ The objective of this assignment is to design a belt-driven pulley system that t
 ### 1. Belt Selection
 
 The pulley system uses two equal-diameter pulleys with a polyurethane round belt. The initial belt tension is 5 lbf, and the belt wraps around 180 degrees of each pulley. The belt will be analyzed to determine the tight-side and loose-side forces, minimum cross-sectional area, and required diameter.
+#### Belt Selection Results
 
+The calculated minimum belt diameter was 0.2416 inches. A 1/4-inch polyurethane round belt was selected from McMaster-Carr (Part #59725K732). Its cross-sectional area is 0.049087 square inches, which exceeds the calculated minimum. The manufacturer specifies a minimum pulley diameter of 2 inches, so the selected 3-inch pulleys satisfy this requirement. The approximate belt length is 19.425 inches. The design assumes a coefficient of friction of 0.30, and the selected belt's actual tensile strength must be verified before manufacturing.
 #### Knowns and Unknowns
 
 The known parameters include pulley diameter, center distance, rotational speed, initial belt tension, belt yield strength, and factor of safety.
