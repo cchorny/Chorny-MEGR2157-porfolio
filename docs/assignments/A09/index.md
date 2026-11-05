@@ -27,7 +27,7 @@ I started by listing the known values and the things I needed to calculate. I ch
 
 #### Knowns and Unknowns
 
-![Belt knowns and unknowns](IMG_7452.jpeg)
+![Belt knowns and unknowns](IMG_7454.jpeg)
 
 #### Free Body Diagram
 
@@ -39,13 +39,13 @@ I drew the pulley system to show the tight and loose sides of the belt. Since bo
 
 I first worked through the equations using variables before plugging in any numbers. I used the belt friction equation and the initial tension to find expressions for the two belt forces. I then rearranged the stress equation to solve for the minimum belt area and diameter.
 
-![Belt symbolic calculations](IMG_7453.jpeg)
+![Belt symbolic calculations](IMG_7452.jpeg)
 
 #### Numerical Calculations
 
 After finding the symbolic equations, I substituted my selected values. I calculated the tight-side tension and used it to determine the minimum belt diameter. I also calculated the belt length using the pulley diameter and center distance.
 
-![Belt numerical calculations](IMG_7454.jpeg)
+![Belt numerical calculations](IMG_7453.jpeg)
 
 #### Belt Selection
 
@@ -65,13 +65,15 @@ I used the belt forces from the first section to calculate the torque acting on 
 
 The shaft is supported by bearings, while the pulley transfers torque to the shaft. I used the difference between the tight-side and loose-side belt forces to calculate the torque.
 
+![Pulley and shaft free body diagrams](pulley_shaft_fbd.png)
+
 #### Symbolic Calculations
 
 I started with the torsional shear stress equation and rearranged it to solve for the shaft diameter. I kept the equations symbolic before substituting the design values.
 
-![Shaft symbolic calculations 1](IMG_7456.jpeg)
+![Shaft torsion equations](IMG_7456.jpeg)
 
-![Shaft symbolic calculations 2](IMG_7457.jpeg)
+![Shaft symbolic diameter calculation](IMG_7457.jpeg)
 
 #### Numerical Calculations
 
@@ -133,7 +135,7 @@ For the frame analysis, I modeled the support as a cantilever with a 5 lbf horiz
 
 I started with the bending stress equation and rearranged it using the moment of inertia for a rectangular cross section. After substituting the dimensions, I calculated the bending stress and checked the factor of safety.
 
-![Frame calculations](IMG_7464.jpeg)
+![Frame symbolic and numerical calculations](IMG_7464.jpeg)
 
 #### Frame Results
 
