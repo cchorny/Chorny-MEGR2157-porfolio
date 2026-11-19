@@ -1,5 +1,7 @@
+
 # A11 – Motor Selection Loose Screws
-For this assignment, our group (Carson, Maddux, Chris) was tasked with selecting a motor to attach to the frame designed in A10, using the same constraints. We accomplished this by using Torque/Speed charts and the aforementioned calculations to find the right motor to power our tensile tester. 
+
+For this assignment, our group (Carson, Maddux, Chris) was tasked with selecting a motor to attach to the frame designed in A10, using the same constraints. We accomplished this by using Torque/Speed charts and the aforementioned calculations to find the right motor to power our tensile tester.
 
 <img width="596" height="208" alt="assignment_heading_reference" src="https://github.com/user-attachments/assets/8aa1941f-754a-4d78-8c98-aa07da0ebe4b" />
 
@@ -112,28 +114,29 @@ The housing is meant to support the lead screw while allowing the intended float
 | Person | Work Time | Payment |
 | --- | --- | --- |
 | Carson | 4 hours | $140 |
-| Maddux | 5 hours | $175 | 
+| Maddux | 5 hours | $175 |
 | Chris | 6 hours | $210 |
-| Total Price: $ | $2,675.79 |
+
+**Total Price: $2,675.79**
 
 ## Final Design (Carson)
-Here was the final design of the Tensile Tester
+
+Here was the final design of the Tensile Tester.
 
 <img width="597" height="611" alt="Screenshot 2026-11-18 222736" src="https://github.com/user-attachments/assets/82bc940a-9511-432b-a112-49b6279ba30e" />
 
 ## Drawings (2157-Maddux)
 
-Below are the drawings of each part that we designed on our own to complete this tensile tester. Each drawing has 4 different views with sufficient dimensions and the correct title card. 
+Below are the drawings of each part that we designed on our own to complete this tensile tester. Each drawing has 4 different views with sufficient dimensions and the correct title card.
 
 <img width="466" height="330" alt="image" src="https://github.com/user-attachments/assets/e6d844ea-f528-4c44-b68f-eb4a5f84da08" />
 
 <img width="468" height="335" alt="image" src="https://github.com/user-attachments/assets/f1ec409b-24fa-4093-8d8e-7aed651ce625" />
 
 ## Lessons Learned
+
 This assignment taught us a lot about how the full design process works and how to work as a team. We gained first-hand experience designing from scratch, and it was a cool experience. One thing that really caught us off guard was the total cost. Aside from that, we learned a lot from the project's optimization and assembly aspects.
 
 This assignment took a total of 15 hours combined.
 
 Downloads here: [CAD](Loose_Screws_A11_FrameCAD.zip) [Drawings](Loose_Screws_A11_Drawings.zip)
-# A11 – Motor Selection Loose Screws.txt
-10 KB
